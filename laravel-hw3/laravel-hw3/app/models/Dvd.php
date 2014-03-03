@@ -40,7 +40,7 @@ class Dvd extends Eloquent{
             'sound' => 'required|integer',
             'rating' => 'required|integer',
             'format' => 'required|integer',
-            'title' => 'min:3|alpha_num'
+            'title' => 'required|min:3|alpha_num'
         ]);
     }
 

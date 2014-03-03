@@ -43,19 +43,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="create.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="create.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/laravel-hw3/laravel-hw3/app/views/dvds/create.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="40" selection-start="892" selection-end="892" vertical-scroll-proportion="1.2056738" vertical-offset="0" max-vertical-offset="1870">
+            <state line="98" column="122" selection-start="2481" selection-end="2481" vertical-scroll-proportion="-38.03846" vertical-offset="677" max-vertical-offset="1887">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dvd.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Dvd.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/laravel-hw3/laravel-hw3/app/models/Dvd.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="18" selection-start="558" selection-end="558" vertical-scroll-proportion="-10.576923" vertical-offset="235" max-vertical-offset="799">
+            <state line="42" column="33" selection-start="877" selection-end="877" vertical-scroll-proportion="0.6985816" vertical-offset="235" max-vertical-offset="799">
               <folding />
             </state>
           </provider>
@@ -82,9 +82,9 @@
         <option value="$PROJECT_DIR$/laravel-hw3/laravel-hw2/app/models/Dvd.php" />
         <option value="$PROJECT_DIR$/laravel-hw3/laravel-hw2/app/controllers/DvdController.php" />
         <option value="$PROJECT_DIR$/laravel-hw3/laravel-hw3/app/controllers/DvdController.php" />
-        <option value="$PROJECT_DIR$/laravel-hw3/laravel-hw3/app/models/Dvd.php" />
         <option value="$PROJECT_DIR$/laravel-hw3/laravel-hw3/app/routes.php" />
         <option value="$PROJECT_DIR$/laravel-hw3/laravel-hw3/app/views/dvds/create.php" />
+        <option value="$PROJECT_DIR$/laravel-hw3/laravel-hw3/app/models/Dvd.php" />
       </list>
     </option>
   </component>
@@ -610,13 +610,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel-hw3/laravel-hw3/app/models/Dvd.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="18" selection-start="558" selection-end="558" vertical-scroll-proportion="-10.576923" vertical-offset="235" max-vertical-offset="799">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/laravel-hw3/laravel-hw3/app/controllers/DvdController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="84" column="11" selection-start="2348" selection-end="2348" vertical-scroll-proportion="-1.3076923" vertical-offset="1309" max-vertical-offset="1887">
@@ -635,7 +628,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/laravel-hw3/laravel-hw3/app/views/dvds/create.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="40" selection-start="892" selection-end="892" vertical-scroll-proportion="1.2056738" vertical-offset="0" max-vertical-offset="1870">
+        <state line="98" column="122" selection-start="2481" selection-end="2481" vertical-scroll-proportion="-38.03846" vertical-offset="677" max-vertical-offset="1887">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-hw3/laravel-hw3/app/models/Dvd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="33" selection-start="877" selection-end="877" vertical-scroll-proportion="0.6985816" vertical-offset="235" max-vertical-offset="799">
           <folding />
         </state>
       </provider>
