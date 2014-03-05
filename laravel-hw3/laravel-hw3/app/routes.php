@@ -8,6 +8,25 @@ Route::get('/dvds/search','DvdController@search');
 
 Route::get('/dvds/','DvdController@results');
 
+Route::get('/soundcloud/search',function() {
+    return View::make('soundcloud/search');
+});
+
+Route::get('/soundcloud/results', function() {
+
+      $query = Input::get('query');
+      $sc = new Itp\Api\SoundCloudSearch();
+      $json = $sc->searchResults($query);
+
+      //dd($json);
+
+      return View::make('soundcloud/results',[
+           'results' => $json
+      ]);
+
+
+});
+
 Route::get('songs/create', function()
 {
   $genres = Genre::all();
